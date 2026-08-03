@@ -50,6 +50,31 @@
         "Prix nettement plus élevé qu'un modèle simple panier"
       ],
       "best_for": "Familles nombreuses, repas complets synchronisés (2 aliments différents en même temps)"
+    },
+    {
+      "id": "ninja-double-stack-xl-9.5l",
+      "status": "active",
+      "name": "Ninja Double Stack XL Air Fryer SL400EUCP 9.5L",
+      "brand": "Ninja",
+      "asin": "B0CZY23DYB",
+      "category": "double-panier",
+      "capacity_l": 9.5,
+      "wattage": 2470,
+      "price_eur_approx": 188.38,
+      "rating_out_of_5": 4.6,
+      "review_count_approx": 6368,
+      "image_url": "",
+      "pros": [
+        "Design vertical empilé : 30% plus compact en encombrement au sol qu'un double panier côte à côte",
+        "4 niveaux de cuisson (2 tiroirs + 2 grilles) pour cuisiner en grande quantité",
+        "Fonction SYNC & MATCH pour synchroniser la fin de cuisson des 2 tiroirs",
+        "Pièces compatibles lave-vaisselle, pinces incluses"
+      ],
+      "cons": [
+        "Plus haut qu'un modèle classique (38,5 cm), peut ne pas rentrer sous des meubles hauts",
+        "6 fonctions de cuisson mais pas d'écran avec fenêtre de visualisation"
+      ],
+      "best_for": "Grandes quantités avec un espace au sol limité (design vertical plutôt que large)"
     }
   ]
 }
