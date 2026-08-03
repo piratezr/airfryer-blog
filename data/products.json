@@ -25,6 +25,31 @@
         "Capacité de 4,2L limite pour plus de 3 personnes"
       ],
       "best_for": "2-3 personnes, studio ou petite cuisine, premier achat d'airfryer"
+    },
+    {
+      "id": "ninja-dual-zone-max-9.5l",
+      "status": "active",
+      "name": "Ninja Air Fryer Dual Zone MAX DZ400EUSTGD 9.5L",
+      "brand": "Ninja",
+      "asin": "B0F6YV2C32",
+      "category": "double-panier",
+      "capacity_l": 9.5,
+      "wattage": 2470,
+      "price_eur_approx": 229.99,
+      "rating_out_of_5": 4.7,
+      "review_count_approx": 1043,
+      "image_url": "",
+      "pros": [
+        "2 zones de cuisson indépendantes (température et temps séparés par tiroir)",
+        "Grande capacité : 2 tiroirs de 4,75L chacun (9,5L au total)",
+        "6 modes de cuisson (Air Fry, Max Crisp, Rôtir, Cuire au four, Réchauffer, Déshydrater)",
+        "Tiroirs et plaques antiadhésifs compatibles lave-vaisselle"
+      ],
+      "cons": [
+        "Encombrant sur le plan de travail (41,5 x 32,5 x 27 cm)",
+        "Prix nettement plus élevé qu'un modèle simple panier"
+      ],
+      "best_for": "Familles nombreuses, repas complets synchronisés (2 aliments différents en même temps)"
     }
   ]
 }
