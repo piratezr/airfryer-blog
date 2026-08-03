@@ -100,6 +100,31 @@
         "Pas d'écran tactile, réglages via bouton rotatif uniquement"
       ],
       "best_for": "Familles nombreuses cherchant le meilleur rapport qualité-prix"
+    },
+    {
+      "id": "lehmann-xxl-8l-fenetre",
+      "status": "active",
+      "name": "Lehmann Friteuse à Air Chaud XXL 8L avec Fenêtre de Visualisation",
+      "brand": "Lehmann",
+      "asin": "B0CV15CBJQ",
+      "category": "budget",
+      "capacity_l": 8,
+      "wattage": 1800,
+      "price_eur_approx": 54.99,
+      "rating_out_of_5": 4.4,
+      "review_count_approx": 287,
+      "image_url": "",
+      "pros": [
+        "Fenêtre de visualisation avec éclairage intégré pour suivre la cuisson sans ouvrir le panier",
+        "Grande capacité (8L, jusqu'à 8-10 personnes) à petit prix",
+        "Jusqu'à 10 programmes, écran tactile LED",
+        "Panier antiadhésif amovible compatible lave-vaisselle"
+      ],
+      "cons": [
+        "Marque moins établie que Philips/Ninja/Moulinex, moins d'avis (287)",
+        "Note légèrement inférieure (4,4/5) aux autres modèles du catalogue"
+      ],
+      "best_for": "Petit budget avec envie de surveiller la cuisson via une fenêtre, grande famille"
     }
   ]
 }
