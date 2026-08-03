@@ -1,4 +1,4 @@
-# Guide éditorial — Guide Airfryer (À LIRE INTÉGRALEMENT AVANT DE PUBLIER UN ARTICLE)
+# Guide éditorial — Guide et Comparatif Air Fryer (À LIRE INTÉGRALEMENT AVANT DE PUBLIER UN ARTICLE)
 
 Ce document est la référence unique pour générer et publier un nouvel article sur ce site.
 Il est conçu pour être suivi par une tâche automatisée quotidienne sans contexte préalable :
@@ -82,7 +82,7 @@ mêmes liens). Le corps suit ce squelette :
   "@type": "Article",
   "headline": "{{H1}}",
   "datePublished": "{{ISO_DATE}}",
-  "author": { "@type": "Organization", "name": "Guide Airfryer" }
+  "author": { "@type": "Organization", "name": "Guide et Comparatif Air Fryer" }
 }
 </script>
 <script type="application/ld+json">
