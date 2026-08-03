@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://REPLACE_WITH_DOMAIN.vercel.app/index.html</loc>
+    <loc>https://airfryer-blog-smoky.vercel.app/index.html</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_DOMAIN.vercel.app/guides-comparatifs.html</loc>
+    <loc>https://airfryer-blog-smoky.vercel.app/guides-comparatifs.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_DOMAIN.vercel.app/guides-complets.html</loc>
+    <loc>https://airfryer-blog-smoky.vercel.app/guides-complets.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_DOMAIN.vercel.app/articles.html</loc>
+    <loc>https://airfryer-blog-smoky.vercel.app/articles.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_DOMAIN.vercel.app/a-propos.html</loc>
+    <loc>https://airfryer-blog-smoky.vercel.app/a-propos.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
