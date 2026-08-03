@@ -1,22 +1,30 @@
 {
-  "_readme": "Catalogue des produits recommandés. Chaque entrée doit avoir un ASIN Amazon valide. Le lien affilié final est construit ainsi : https://www.amazon.fr/dp/{asin}?tag={associate_tag}. Remplacer associate_tag dans data/config.json une fois le compte Amazon Associates créé. NE PAS publier tant que asin/associate_tag sont des placeholders.",
+  "_readme": "Catalogue des produits recommandés. Chaque entrée doit avoir un ASIN Amazon valide. Le lien affilié final est construit ainsi : https://www.amazon.fr/dp/{asin}?tag={associate_tag}. Le tag est dans data/config.json. Seules les entrées avec status=active peuvent être utilisées dans les articles publiés ; ne jamais utiliser une entrée status=PLACEHOLDER_DO_NOT_PUBLISH.",
   "products": [
     {
-      "id": "placeholder-1",
-      "status": "PLACEHOLDER_DO_NOT_PUBLISH",
-      "name": "Nom du modèle (ex: Ninja Air Fryer Max XL AF161)",
-      "brand": "Marque",
-      "asin": "REPLACE_WITH_REAL_ASIN",
-      "category": "budget | milieu-de-gamme | premium | grande-capacite | double-panier | compacte",
-      "capacity_l": 5.2,
-      "wattage": 1750,
-      "price_eur_approx": 129.99,
+      "id": "philips-airfryer-2000-4.2l",
+      "status": "active",
+      "name": "Philips Airfryer 2000 4.2L (NA229/00)",
+      "brand": "Philips",
+      "asin": "B0CWP6KQ4D",
+      "category": "milieu-de-gamme",
+      "capacity_l": 4.2,
+      "wattage": 1500,
+      "price_eur_approx": 85.49,
       "rating_out_of_5": 4.6,
-      "review_count_approx": 3200,
+      "review_count_approx": 3342,
       "image_url": "",
-      "pros": ["Exemple: montée en température rapide", "Exemple: panier antiadhésif amovible"],
-      "cons": ["Exemple: écran tactile parfois capricieux"],
-      "best_for": "Exemple: familles de 3-4 personnes"
+      "pros": [
+        "Technologie RapidAir pour une circulation d'air homogène",
+        "Écran tactile avec 9 préréglages (frites, poulet, poisson, légumes, gâteaux...)",
+        "Panier et grille compatibles lave-vaisselle",
+        "Format compact adapté aux petites cuisines"
+      ],
+      "cons": [
+        "Pas de fenêtre de cuisson sur ce modèle (variante disponible séparément)",
+        "Capacité de 4,2L limite pour plus de 3 personnes"
+      ],
+      "best_for": "2-3 personnes, studio ou petite cuisine, premier achat d'airfryer"
     }
   ]
 }
