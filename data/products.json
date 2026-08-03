@@ -75,6 +75,31 @@
         "6 fonctions de cuisson mais pas d'écran avec fenêtre de visualisation"
       ],
       "best_for": "Grandes quantités avec un espace au sol limité (design vertical plutôt que large)"
+    },
+    {
+      "id": "moulinex-easy-fry-mega-7.5l",
+      "status": "active",
+      "name": "Moulinex Easy Fry Mega EZ8558F0 7.5L",
+      "brand": "Moulinex",
+      "asin": "B0DGLFBT67",
+      "category": "budget",
+      "capacity_l": 7.5,
+      "wattage": 2020,
+      "price_eur_approx": 79.99,
+      "rating_out_of_5": 4.7,
+      "review_count_approx": 1459,
+      "image_url": "",
+      "pros": [
+        "Très grande capacité (7,5L, jusqu'à 8 personnes) pour un prix budget",
+        "8 programmes prédéfinis + 1 mode manuel avec bouton rotatif (80°C à 200°C)",
+        "Format compact malgré la grande capacité",
+        "Panier antiadhésif compatible lave-vaisselle"
+      ],
+      "cons": [
+        "Simple panier (pas de cuisson synchronisée à deux zones)",
+        "Pas d'écran tactile, réglages via bouton rotatif uniquement"
+      ],
+      "best_for": "Familles nombreuses cherchant le meilleur rapport qualité-prix"
     }
   ]
 }
