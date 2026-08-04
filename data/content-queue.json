@@ -1,8 +1,8 @@
 {
   "_readme": "File d'attente éditoriale. La tâche quotidienne prend la première entrée status=pending (ordre croissant du champ order), génère l'article, puis la repasse à published avec published_date et article_slug. Quand il ne reste plus de pending, générer 20 nouvelles entrées cohérentes avec les 3 types (comparatif/guide/article) avant de continuer. Voir ARTICLE_GUIDELINES.md.",
   "queue": [
-    { "order": 1, "type": "comparatif", "title": "Airfryer Double Panier vs Simple Panier : Lequel Choisir ?", "primary_keyword": "airfryer double panier ou simple panier", "status": "pending" },
-    { "order": 2, "type": "guide", "title": "Comment Bien Utiliser sa Friteuse à Air Quand on Débute", "primary_keyword": "comment utiliser une friteuse à air", "status": "pending" },
+    { "order": 1, "type": "comparatif", "title": "Airfryer Double Panier vs Simple Panier : Lequel Choisir ?", "primary_keyword": "airfryer double panier ou simple panier", "status": "published", "published_date": "2026-08-03", "article_slug": "airfryer-double-panier-ou-simple-panier" },
+    { "order": 2, "type": "guide", "title": "Comment Bien Utiliser sa Friteuse à Air Quand on Débute", "primary_keyword": "comment utiliser une friteuse à air", "status": "published", "published_date": "2026-08-03", "article_slug": "comment-utiliser-friteuse-a-air-debutant" },
     { "order": 3, "type": "article", "title": "10 Recettes Faciles pour Débuter à l'Airfryer", "primary_keyword": "recette facile airfryer débutant", "status": "pending" },
     { "order": 4, "type": "comparatif", "title": "Meilleur Airfryer Pas Cher en 2026 : Comparatif Budget", "primary_keyword": "meilleur airfryer pas cher", "status": "pending" },
     { "order": 5, "type": "guide", "title": "Comment Nettoyer et Entretenir sa Friteuse à Air", "primary_keyword": "nettoyer friteuse à air", "status": "pending" },
